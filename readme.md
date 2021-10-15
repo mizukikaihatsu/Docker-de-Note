@@ -2,8 +2,9 @@
 Docker-de-Note -ドッカー ド ノート-  
   
 # Features  
-「Docker」の理解を深めるために作成。
-ローカルで作成後、AWSにDocker Engineをインストールしてデプロイ。（を言ってみたくて開発しました。）
+「Docker」は運用まで見据えないと理解をしにくいと考え開発しました。
+メモアプリです。  
+ローカルで作成後、DockerでAWSにデプロイ。（を言ってみたくて開発しました。）
   
 # Description  
   フレームワーク「Laravel」を使用して同じ挙動をするものも開発し、相互の違いが理解が深まりました。
@@ -13,7 +14,7 @@ Docker-de-Note -ドッカー ド ノート-
 ### 使用技術  
 #### 【フロントエンド】  
 - HTML/CSS
-- JavaScript（chart.jsのライブラリを使用）
+- JavaScript
 - Bootstrap  
   
 #### 【バックエンド】  
